@@ -66,10 +66,8 @@ Chatbot: Goodbye! Take care!
 - Modify the `self.pairs` list in `BasicChatbot` class to add, remove, or change conversation patterns.
 - Add more sophisticated NLP or external API integration as needed.
 
-## License
 
-This project is open source and free to use.
 
 ---
 
-Created by Syed.
+Created by Syed Nadirsha
