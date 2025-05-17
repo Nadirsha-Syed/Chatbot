@@ -67,7 +67,8 @@ Chatbot: Goodbye! Take care!
 - Add more sophisticated NLP or external API integration as needed.
 
 
+## Author
+If you have any questions or feedback, feel free to reach out:
+- Email: nadirshasyed835@gmail.com  
+- GitHub: Nadirsha-Syed(https://github.com/Nadirsha-Syed)
 
----
-
-Created by Syed Nadirsha
